@@ -1,0 +1,86 @@
+/*
+  Lecture 05 - Step 1: You created this style.css file in the same directory as index.html.
+  Remember to link it from index.html (see Lecture 05 - Step 2 in index.html).
+
+  Work through the numbered steps below by uncommenting and completing each rule.
+*/
+
+/*
+  Lecture 05 - Step 3: Add base styling rules for the body.
+*/
+/*
+body {
+  background-color: #F2F7F8;
+  color: #17324D;
+}
+*/
+
+/*
+  Lecture 05 - Step 5: Write three selector types to target real HTML elements.
+  - Element selector (p)
+  - Class selector (.content-card)
+  - Id selector (#page-title)
+*/
+/*
+p {
+  font-size: 18px;
+}
+
+.content-card {
+  background: #F2F7F8;
+}
+
+#page-title {
+  color: #008D84;
+}
+*/
+
+/*
+  Lecture 05 - Step 6: Apply a coordinated two-color palette across your stylesheet
+  for text, headings, and borders (e.g., #17324D and #008D84).
+*/
+
+/*
+  Lecture 06 - Step 1: Open your existing Homework 1 repository and ensure your
+  index.html and style.css files are ready.
+*/
+
+/*
+  Lecture 06 - Step 2: Add box-model styling to at least three elements by defining
+  margins, padding, and borders for your page heading, content cards, and paragraphs.
+*/
+/*
+#page-title {
+  margin: 0 0 16px;
+  padding: 12px;
+  border-bottom: 2px solid #008D84;
+}
+
+.content-card {
+  margin: 16px 0;
+  padding: 20px;
+  border: 1px solid #17324D;
+}
+
+p {
+  margin: 0 0 12px;
+  padding: 4px 0;
+  border-left: 3px solid #008D84;
+}
+*/
+
+/*
+  Lecture 06 - Step 3: Inspect your webpage in browser DevTools by right-clicking your
+  page, opening Inspect, and checking the computed box model in the Elements and Styles panels.
+*/
+
+/*
+  Lecture 06 - Step 4: Debug any styling issues by checking your stylesheet link path,
+  ensuring your CSS selectors match your HTML class and ID names exactly, and verifying
+  your rule syntax.
+*/
+
+/*
+  Lecture 06 - Step 5: Save your changes, preview your webpage locally, and commit and
+  push your final repository to GitHub for Homework 2.
+*/
