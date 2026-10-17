@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" role="img" aria-labelledby="title">
+  <title id="title">A trail winding through green hills</title>
+  <rect width="800" height="450" fill="#bde5f2"/>
+  <circle cx="650" cy="92" r="43" fill="#f8d879"/>
+  <path d="M0 260 185 105l188 179 150-131 277 155v142H0Z" fill="#6c9c72"/>
+  <path d="m0 302 202-131 172 151 179-120 247 130v118H0Z" fill="#3f7657"/>
+  <path d="M327 450c35-65 52-113 47-153-4-36-21-65-41-97 56 17 105 49 126 94 22 47 9 96-21 156Z" fill="#d8c49a"/>
+  <path d="M0 400c109-33 217-17 327 50H0Z" fill="#2e614a"/>
+  <path d="M800 393c-80-35-148-31-223 57h223Z" fill="#2e614a"/>
+</svg>
