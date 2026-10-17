@@ -1,0 +1,41 @@
+/*
+  Lecture 05 - Step 1: You created this style.css file in the same directory as index.html.
+  Remember to link it from index.html (see Lecture 05 - Step 2 in index.html).
+
+  Work through the numbered steps below by uncommenting and completing each rule.
+*/
+
+/*
+  Lecture 05 - Step 3: Add base styling rules for the body.
+*/
+/*
+body {
+  background-color: #F2F7F8;
+  color: #17324D;
+}
+*/
+
+/*
+  Lecture 05 - Step 5: Write three selector types to target real HTML elements.
+  - Element selector (p)
+  - Class selector (.content-card)
+  - Id selector (#page-title)
+*/
+/*
+p {
+  font-size: 18px;
+}
+
+.content-card {
+  background: #F2F7F8;
+}
+
+#page-title {
+  color: #008D84;
+}
+*/
+
+/*
+  Lecture 05 - Step 6: Apply a coordinated two-color palette across your stylesheet
+  for text, headings, and borders (e.g., #17324D and #008D84).
+*/
